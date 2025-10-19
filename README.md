@@ -25,6 +25,8 @@ npm run preview
 
 ## Preview
 
-![Uploading Home.jpeg…]()
+![Home](https://github.com/user-attachments/assets/5b5a1a8d-cbc3-46f8-82ea-8dc1c199f966)
+
 ![Serviços](https://github.com/user-attachments/assets/627bd375-0b7f-45c9-88b1-4b4601a83753)
+
 ![Preview](https://github.com/user-attachments/assets/ce0ab0f1-86a3-46c0-96d5-cc13f13e7885)
