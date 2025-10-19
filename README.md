@@ -1,16 +1,32 @@
-# React + Vite
+# React + Vite + Tailwind CSS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
+Esta aplicação permite criar e exportar orçamentos de serviços automotivos de forma rápida e organizada.  
+Ideal para oficinas e profissionais que desejam agilidade e um visual moderno no processo de criação de orçamentos.
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## React Compiler
+## Compiles and hot-reloads for development
 
-The React Compiler is not enabled on this template. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+npm run dev
 
-## Expanding the ESLint configuration
+## Compiles and minifies for production 
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+npm run build
+
+## Preview production build
+
+npm run preview
+
+## Tech Stack
+
+⚛️ React 18![Home](https://github.com/user-attachments/assets/7d420f7e-bf54-41b7-9636-a241eaf5c8b5)
+
+⚡ Vite
+🎨 Tailwind CSS
+
+## Preview
+
+![Uploading Home.jpeg…]()
+![Serviços](https://github.com/user-attachments/assets/627bd375-0b7f-45c9-88b1-4b4601a83753)
+![Preview](https://github.com/user-attachments/assets/ce0ab0f1-86a3-46c0-96d5-cc13f13e7885)
