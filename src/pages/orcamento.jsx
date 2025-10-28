@@ -46,17 +46,17 @@ export default function Orcamento() {
             <h1 className="text-1xl font-bold text-black">MARTELINHO DE OURO E PEQUENOS REPAROS</h1>
             </div>            
             <div>
-              <p>Av. CRISTO REI, 665, PARQUE DAS AMERICAS</p>
+              <p>MEU ENDEREÇO, 000, MEU BAIRRO</p>
               <p className="mb-4">Uberaba - MG | CEP 38045-250</p>
               <div className="flex items-center justify-center mb-2">                
                 <img className='w-4.5 h-3.5 top-4 pr-1' src={wpp}/>
-                <p className="font-bold">Tel: (34) 98878-1704</p>  
+                <p className="font-bold">Tel: (00) 00000-0000</p>  
               </div>
               <div className="flex items-center justify-center mb-1">                
                 <img className='w-4.5 h-3.5 top-4 pr-1' src={ig}/>
                 <p className="font-bold">fachinelli.oficina</p>  
               </div>                          
-              <p className="text-[0.7rem]  ml-32 font-bold"> CNPJ: 39.349.347/0001-80</p>
+              <p className="text-[0.7rem]  ml-32 font-bold"> CNPJ: 00.000.000/0000-00</p>
             </div>
           </div>
         </div>
